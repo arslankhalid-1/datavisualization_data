@@ -1,0 +1,107 @@
+Country	Year	Status	Life_Expectancy 
+United States of America	2014	Developed	79.1
+United States of America	2013	Developed	78.9
+United States of America	2012	Developed	78.8
+United States of America	2011	Developed	78.7
+United States of America	2010	Developed	78.7
+United States of America	2009	Developed	78.5
+United States of America	2008	Developed	78.2
+United States of America	2007	Developed	78.1
+United States of America	2006	Developed	77.8
+United States of America	2005	Developed	77.5
+United States of America	2004	Developed	77.5
+United States of America	2003	Developed	77.2
+United States of America	2002	Developed	77
+United States of America	2001	Developed	76.9
+United States of America	2000	Developed	76.8
+China	2014	Developing	75.8
+China	2013	Developing	75.6
+China	2012	Developing	75.4
+China	2011	Developing	75.2
+China	2010	Developing	75
+China	2009	Developing	74.9
+China	2008	Developing	74.5
+China	2007	Developing	74.4
+China	2006	Developing	74.2
+China	2005	Developing	73.9
+China	2004	Developing	73.5
+China	2003	Developing	73.1
+China	2002	Developing	72.7
+China	2001	Developing	72.2
+China	2000	Developing	71.7
+Brazil	2014	Developing	74.8
+Brazil	2013	Developing	74.7
+Brazil	2012	Developing	74.5
+Brazil	2011	Developing	74.1
+Brazil	2010	Developing	73.8
+Brazil	2009	Developing	73.6
+Brazil	2008	Developing	73.4
+Brazil	2007	Developing	73.3
+Brazil	2006	Developing	73
+Brazil	2005	Developing	72.7
+Brazil	2004	Developing	72
+Brazil	2003	Developing	71.8
+Brazil	2002	Developing	71.4
+Brazil	2001	Developing	71
+Brazil	2000	Developing	70
+Germany	2014	Developed	81
+Germany	2013	Developed	80.5
+Germany	2012	Developed	80.5
+Germany	2011	Developed	80.4
+Germany	2010	Developed	80
+Germany	2009	Developed	79.8
+Germany	2008	Developed	79.9
+Germany	2007	Developed	79.8
+Germany	2006	Developed	79.6
+Germany	2005	Developed	79.2
+Germany	2004	Developed	79.1
+Germany	2003	Developed	78.5
+Germany	2002	Developed	78.4
+Germany	2001	Developed	78.3
+Germany	2000	Developed	78
+Kenya	2014	Developing	62.9
+Kenya	2013	Developing	62.6
+Kenya	2012	Developing	62.1
+Kenya	2011	Developing	61.2
+Kenya	2010	Developing	61
+Kenya	2009	Developing	59.1
+Kenya	2008	Developing	57.9
+Kenya	2007	Developing	56.8
+Kenya	2006	Developing	55.3
+Kenya	2005	Developing	54.1
+Kenya	2004	Developing	53
+Kenya	2003	Developing	52.4
+Kenya	2002	Developing	52.1
+Kenya	2001	Developing	51.9
+Kenya	2000	Developing	51.9
+India	2014	Developing	68
+India	2013	Developing	67.6
+India	2012	Developing	67.3
+India	2011	Developing	66.8
+India	2010	Developing	66.4
+India	2009	Developing	66
+India	2008	Developing	65.5
+India	2007	Developing	65.2
+India	2006	Developing	64.8
+India	2005	Developing	64.4
+India	2004	Developing	64
+India	2003	Developing	63.7
+India	2002	Developing	63.3
+India	2001	Developing	62.9
+India	2000	Developing	62.5
+Indonesia	2014	Developing	68.9
+Indonesia	2013	Developing	68.7
+Indonesia	2012	Developing	68.5
+Indonesia	2011	Developing	68.3
+Indonesia	2010	Developing	68.1
+Indonesia	2009	Developing	67.9
+Indonesia	2008	Developing	67.7
+Indonesia	2007	Developing	67.5
+Indonesia	2006	Developing	67.3
+Indonesia	2005	Developing	67.2
+Indonesia	2004	Developing	67
+Indonesia	2003	Developing	66.9
+Indonesia	2002	Developing	66.7
+Indonesia	2001	Developing	66.5
+Indonesia	2000	Developing	66.3
+
